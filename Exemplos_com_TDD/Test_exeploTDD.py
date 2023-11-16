@@ -55,5 +55,5 @@ class testBaconConOvos(unittest.TestCase):
             with self.subTest(entrada=entradas,saida=saida):
                 self.assertEqual(bacon_com_ovos(entrada),saida, msg=f'"{entrada}" nao retornou "{saida}"')
                 
-                
-unittest.main(verbosity=2)
+if __name__ == '__main__':      
+    unittest.main(verbosity=2)
