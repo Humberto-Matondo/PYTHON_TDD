@@ -1,6 +1,6 @@
 <h1> DocTest, Unittest & Test driven development (TDD) </h1>
 
-**EM INGLÊS:**<br>
+**IN ENGLISH:**<br>
 This repository is exclusively dedicated to Python development tests, a platform I use to enhance my skills in creating tests. 
 In the development process, I make use of both DocTest and Unittest to ensure the quality and robustness of the code. 
 The practice of Test-Driven Development (TDD) is essential to improve my skills and ensure the reliability of the software I develop.
